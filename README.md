@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1-wOMciuBxRmr1VEwxLLAfB9IZhFNWoS395mt31adOxo/
 ~~Зачеркнутый текст~~
 *Наклонный текст (italic)*
 ___Жирный наклонный текст (bold italic)___
+:white_check_mark: Это уже сделано    
+:negative_squared_cross_mark: Я не буду это делать    
+:black_square_button: делать или не делать, вот в чем вопрос?    
